@@ -1,5 +1,6 @@
 ActsAsMongoTaggable
 ===================
+Currently being modified to work with Padrino, a work in progress.
 
 Inspired by mbleigh's "acts_as_taggable_on," this tagging plugin works with MongoDB+MongoMapper.
 
